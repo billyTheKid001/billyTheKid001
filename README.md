@@ -1,16 +1,15 @@
 # 👋 Hello, moi c’est Abd !
 
-🎓 Étudiant en développement à l’EFREI (BTS SIO – option SLAM)  
-📱 Passionné par le **développement mobile** et la **data science**  
-🚀 En route pour devenir un **développeur full stack** & **Pentester complet**  
-🛠️ Actuellement, j'apprends **Dart & Flutter** pour créer une application d'organisation
-
+🎓 Étudiant en **développement** à l’**EFREI** (BTS SIO – option SLAM)  
+📱 Passionné par le **développement mobile**, la **data science** et la **cyber-sécurité**
+🚀 En route pour devenir un **développeur full stack** & un **pentester complet**  
+🛠️ Actuellement, j'apprends **Dart** & **Flutter** pour créer une application d'organisation  
 
 ---
 
-## 🚀 Stack actuelle
+## ⚙️ Stack actuelle
 
-![Python: en apprentissage](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,17 +22,20 @@
 
 ## 📂 Projets récents
 
-- 🔥 [E-commerce Flutter](https://github.com/AbdCsko/e-commerce) — projet mobile en cours de développement  
-- 🧠 [To-do App](https://github.com/AbdCsko/todo-flutter) *(en cours – bientôt lancé)*
+🧱 *(Bientôt disponibles — restez connectés !)*  
+
+> Je travaille actuellement sur plusieurs projets liés à **Flutter**, **sécurité informatique**, et **outils d’organisation**.  
+> Les dépôts seront mis en ligne prochainement 👀  
 
 ---
 
 ## 📫 Me contacter
 
-- 📧 cissokhoabdoulaye069@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdoulaye-cissokho-b5429b257/)
-- 🌐 Portfolio → *en construction*
+- 📧 **Email :** [cissokhoabdoulaye069@gmail.com](mailto:cissokhoabdoulaye069@gmail.com)  
+- 💼 **LinkedIn :** [Abdoulaye Cissokho](https://www.linkedin.com/in/abdoulaye-cissokho-b5429b257/)  
+- 🌐 **Portfolio :** *en construction...*  
 
 ---
 
-*Merci d’avoir visité mon profil ! N’hésite pas à me suivre ou à échanger ! 🙌*
+⭐ *Merci d’avoir visité mon profil !*  
+N’hésite pas à **me suivre** ou à **échanger** avec moi — j’adore partager autour du code et de la cybersécurité 🙌
