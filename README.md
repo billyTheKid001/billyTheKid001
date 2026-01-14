@@ -3,7 +3,7 @@
 🎓 Étudiant en **développement** à l’**EFREI** (BTS SIO – option SLAM)  
 📱 Passionné par le **développement mobile**, la **data science** et la **cyber-sécurité**
 🚀 En route pour devenir un **développeur full stack** & un **pentester complet**  
-🛠️ Actuellement, j'apprends **Dart** & **Flutter** pour créer une application d'organisation  
+🛠️ Actuellement, j'apprends **JavaFX** & **PHP** pour créer une application d'organisation  
 
 ---
 
@@ -24,8 +24,8 @@
 
 🧱 *(Bientôt disponibles — restez connectés !)*  
 
-> Je travaille actuellement sur plusieurs projets liés à **Flutter**, **sécurité informatique**, et **outils d’organisation**.  
-> Les dépôts seront mis en ligne prochainement 👀  
+> Je travaille actuellement un projet liés à **JavaFX**, **PHP**, et **MySQL** pour un projet scolaire  
+> Le dépôts sera mis en ligne prochainement 👀  
 
 ---
 
